@@ -1,0 +1,15 @@
+---
+title: "pset0.R"
+author: "Hannah Marshall"
+date: "9/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print("hello world")
+```
+
